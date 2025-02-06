@@ -1,0 +1,8 @@
+Solution : 
+
+Flag : GCTF{simple_xor}
+Key : 01 (Clef en HEX)
+
+Donné aux users : 
+
+cipher : NTYhNTIhNDUhNTchNmMhNjIhNzghN2UhNjEhN2IhNzQhNGchNjkhN2chNjMhNmU=
